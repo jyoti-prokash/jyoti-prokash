@@ -1,5 +1,5 @@
 ![I'm a passionate Frontend Developer from Bangladesh.](https://i.ibb.co.com/nQFFj33/Black-and-Yellow-Web-Developer-Linked-In-Banner-1.jpg)
-### Hi there 👋, I'm Jyoti Prokash! Welcome to my profile
+### Hi👋, I'm Jyoti Prokash! Welcome to my profile
 #### I'm a passionate Frontend Developer from Bangladesh.
 
  My development journey started with HTML, CSS, and JavaScript, and now I specialize in modern frameworks and libraries like React.js and Tailwind CSS to create responsive, dynamic, and visually appealing web interfaces.
