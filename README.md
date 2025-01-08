@@ -28,7 +28,7 @@ Currently, I'm expanding my expertise by working on full-stack projects, learnin
 </div>
 
 ###
-- 🔭 I’m currently working on Bisto Boss a Restaurent website, 
+- 🔭 I’m currently working on Bistro Boss a Restaurent website, 
 - 🌱 I’m currently learning Nodejs,MongoDB 
 - ⚡ Fun fact: **Did you know? I initially started with frontend development, but now I'm enjoying exploring backend technologies like Node.js and MongoDB! It feels amazing to build full-stack applications from scratch. 😃** 
 - 📫 How to reach me: 📧jyotiprokash2000@gmail.com 
