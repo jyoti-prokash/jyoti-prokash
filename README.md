@@ -33,25 +33,13 @@ Currently, I'm expanding my expertise by working on full-stack projects, learnin
 - 📫 How to reach me: 📧jyotiprokash2000@gmail.com 
 ###
 
+###
+
 <div align="center">
-  <a href="https://www.linkedin.com/in/jyoti-prokash-chakma-960b32292/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="70" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/jyoti_prokash20" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="70" height="40" alt="twitter logo"  />
-  </a>
-  <a href="https://www.facebook.com/jyotiprokashchakma" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="70" height="40" alt="facebook logo"  />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=jyoti-prokash&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jyoti-prokash&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/jyoti-prokash)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/jyotiprokashchakma)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/jyoti-prokash)  
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jyoti-prokash&show_icons=true&locale=en&layout=compact" alt="jyoti-prokash" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jyoti-prokash&show_icons=true&locale=en" alt="jyoti-prokash" /></p>
 
 
