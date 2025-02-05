@@ -25,7 +25,21 @@ Currently, I'm expanding my expertise by working on full-stack projects, learnin
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
 </div>
+###
 
+<div align="center">
+  <a href="https://www.linkedin.com/in/jyoti-prokash-chakma-960b32292/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="70" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/jyoti_prokash20" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="70" height="40" alt="twitter logo"  />
+  </a>
+  <a href="https://www.facebook.com/jyotiprokashchakma" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="70" height="40" alt="facebook logo"  />
+  </a>
+</div>
+
+###
 ###
 - 🔭 I’m currently working on Bistro Boss a Restaurent website, 
 - 🌱 I’m currently learning Nodejs,MongoDB 
