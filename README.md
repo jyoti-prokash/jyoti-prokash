@@ -1,12 +1,9 @@
 ![I'm a passionate Frontend Developer from Bangladesh.](https://i.ibb.co.com/nQFFj33/Black-and-Yellow-Web-Developer-Linked-In-Banner-1.jpg)
-### Hi👋, I'm Jyoti Prokash! passionate Frontend Developer from Bangladesh. Welcome to my profile
+### Hi👋, I'm Jyoti Prokash Chakma! Welcome to my profile
 
- My development journey started with HTML, CSS, and JavaScript, and now I specialize in modern frameworks and libraries like React.js and Tailwind CSS to create responsive, dynamic, and visually appealing web interfaces.
+ I am a web developer from Bangladesh, currently learning and working with the MERN stack. I enjoy building modern, user-friendly web applications and continuously improving my coding skills. I'm expanding my expertise by working on full-stack projects, learning Node.js, Express.js, and MongoDB, and integrating JWT authentication for secure web applications. I'm passionate about continuous learning and improving my skills to stay updated with the latest web technologies.
 
-Currently, I'm expanding my expertise by working on full-stack projects, learning Node.js, Express.js, and MongoDB, and integrating JWT authentication for secure web applications. I'm passionate about continuous learning and improving my skills to stay updated with the latest web technologies.
 <h3 align="left">🛠 Language and tools</h3>
-
-###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="40" alt="html5 logo"  />
@@ -25,6 +22,14 @@ Currently, I'm expanding my expertise by working on full-stack projects, learnin
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
 </div>
+
+
+###
+###
+- 🔭 I’m working some Fullstack Projects.
+- 🌱 I’m currently learning NextJs.
+- ⚡ Fun fact: **Did you know? I initially started with frontend development, but now I'm enjoying exploring backend technologies like Node.js and MongoDB! It feels amazing to build full-stack applications from scratch. 😃** 
+- 📫 How to reach me: 📧jyotiprokash2000@gmail.com 
 ###
 
 <div align="center">
@@ -38,14 +43,6 @@ Currently, I'm expanding my expertise by working on full-stack projects, learnin
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="70" height="40" alt="facebook logo"  />
   </a>
 </div>
-
-###
-###
-- 🔭 I’m currently working on Bistro Boss a Restaurent website, 
-- 🌱 I’m currently learning Nodejs,MongoDB 
-- ⚡ Fun fact: **Did you know? I initially started with frontend development, but now I'm enjoying exploring backend technologies like Node.js and MongoDB! It feels amazing to build full-stack applications from scratch. 😃** 
-- 📫 How to reach me: 📧jyotiprokash2000@gmail.com 
-###
 
 ###
 
